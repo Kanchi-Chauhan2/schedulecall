@@ -1,0 +1,242 @@
+/*a{
+    color:blue;
+}
+.container{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    &__box1{
+        width:97%;
+        height:50vh;
+        display:flex;
+        margin:1rem auto;
+        border:1px solid lightgray;
+        &--1{
+            background-color: whitesmoke;
+            border-right:1px solid lightgray;
+            width:10%;
+            padding:2rem;
+            display:flex;
+            flex-direction: column;
+            &--date{
+                display:flex;
+                flex-direction: column;
+                flex:1;
+                &--month{
+                    color:lightgray;
+                    font-size:2.5rem;
+                    text-align: center;
+                }
+                &--day{
+                    text-align: center;
+                    font-weight:600;
+                    font-size:3rem;
+                    color:lightgray;
+                }
+                &--weekday{
+                    color:lightgray;
+                    font-size:2.5rem;
+                    text-align: center;
+
+                }
+            }
+            &--part2{
+                display: flex;
+                flex-direction: column;
+                
+                &--nmbr{
+                    text-align: center;
+                    color:lightgray;
+                    font-size:2rem;
+                    font-weight:600;
+                }
+                &--text{
+                    text-align: center;
+                    color:lightgray;
+                    font-size:1.5rem;
+                }
+            }
+        }
+        &--2{
+            padding:2rem;
+
+            &--email{
+                color:gray;
+                font-weight:600;
+            }
+            &--invite{
+                color:gray;
+            }
+            &--founder{
+                font-size:2rem;
+                color:gray;
+                margin:2rem 0rem;
+            }
+            &--time{
+                display: flex;
+                img{
+                    margin-right:2rem;
+                }
+                p{
+                font-size:1.5rem;
+                color:gray;
+                }
+                margin:2rem 0rem;
+            }
+            &--location{
+                display: flex;
+                img{
+                    margin-right:2rem;
+                }
+                p{
+                    font-size:1.5rem;
+                    color:gray;
+                    }
+                margin:2rem 0rem;
+            }
+            &--group{
+                display: flex;
+                img{
+                    margin-right:2rem;
+                }
+                p{
+                    font-size:1.5rem;
+                    color:lightgray;
+                    }
+                margin:2rem 0rem;
+            }
+            &--btn{
+                display: flex;
+                button{
+                    margin:0rem;
+                    padding:1rem 3rem;
+                    background-color: white;
+                    border:1px solid lightgray;
+                    color:gray;
+
+                }
+            }
+            &--links{
+                display:flex;
+                margin:2rem 0rem;
+                &--delete{
+                    a{
+                        color:blue;
+                    }
+                }
+                &--dot{
+                    margin:1rem 10rem;
+                    width:5px;
+                    height:5px;
+                    border-radius: 50%;
+                    background-color: gray;
+                    display:flex;
+                    justify-content: center;
+                }
+                &--view{
+                    a{
+                        color:blue;
+                    }
+                }
+            }
+        }
+    }
+    &__box2{
+        width:97%;
+        height:70vh;
+        display:flex;
+        flex-direction: column;
+        padding:2rem;
+        margin:1rem auto;
+        border:1px solid lightgray;
+        &--msg{
+            line-height:2rem;
+        }
+        &--green{
+            color:green;
+            margin-bottom:2rem;
+            font-size:1rem;
+            font-weight: 600;
+        }
+        &--founder{
+            font-weight:600;
+            font-size:2rem;
+        }
+        &--keyvalues{
+            display:flex;
+            flex-direction: column;
+            &--1{
+                display:flex;
+                &--key{
+                    color:lightgray;
+                    margin:1rem 0rem;
+                }
+                &--value{
+                    
+                    margin:1rem 10rem;
+                }
+            }
+            &--2{
+                display:flex;
+
+                &--key{
+                    color:lightgray;
+                    margin:1rem 0rem;
+                }
+                &--value{
+                    color:blue;
+                    margin:1rem 10rem;
+                }
+            }
+            &--3{
+                display:flex;
+
+                &--key{
+                    color:lightgray;
+                    margin:1rem 0rem;
+                }
+                &--value{
+                    color:blue;
+                    margin:1rem 10rem;
+                }
+            }
+
+            &--4{
+                display:flex;
+
+                &--key{
+                    color:lightgray;
+                    margin:1rem 0rem;
+                }
+                &--value{
+                    margin:1rem 10rem;
+                }
+            }
+            &--5{
+
+                display:flex;
+
+                &--key{
+                    color:lightgray;
+                    margin:1rem 0rem;
+                }
+                &--value{
+                    color:blue;
+                    margin:1rem 10rem;
+                }
+            }
+            &--6{
+                display:flex;
+
+                &--key{
+                    color:lightgray;
+                    margin:1rem 0rem;
+                }
+                &--value{
+                    margin:1rem 10rem;
+                }
+            }
+        }
+        
+    }
+}*/
